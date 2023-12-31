@@ -874,7 +874,7 @@ a {
 
 .footer a {
   color: #777;
-  transition: color 0.3;
+  transition: color 0.3s;
 }
 
 .footer a:hover {
