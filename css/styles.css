@@ -706,9 +706,9 @@ a {
   align-items: center;
 }
 
-/* .nav--margin {
+.nav--margin {
   margin-bottom: -1px;
-} */
+}
 
 .nav__list {
   width: 100%;
